@@ -52,7 +52,6 @@ The simulation uses agent-based modeling to represent vehicles and traffic light
 ## Credits
 
 Original model by the [NetLogo Community](https://ccl.northwestern.edu/netlogo/models/community/4Way-Junction-Traffic-Simulation-SriLanka)  
-Enhanced by Srimal Fernando  
 Affiliated with NSBM Green University, Sri Lanka
 
 ## License
