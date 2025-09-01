@@ -1,4 +1,4 @@
-# 4-Way Junction Traffic Simulation (Sri Lanka) — Enhanced Version
+# 4-Way Junction Traffic Simulation (Sri Lanka) : Enhanced Version
 
 This project is an enhanced version of the original [NetLogo community model](https://ccl.northwestern.edu/netlogo/models/community/4Way-Junction-Traffic-Simulation-SriLanka), designed to simulate traffic flow at a four-way junction under Sri Lankan road conditions. The updated model introduces advanced routing logic and dynamic traffic density control for more realistic and flexible simulations.
 
